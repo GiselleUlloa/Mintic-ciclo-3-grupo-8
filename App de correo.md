@@ -1,1 +1,8 @@
-# Mintic-ciclo-3-grupo-8
+#  Mail app
+
+This application describes in code the process of creating an email system.
+
+
+
+
+
